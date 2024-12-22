@@ -1,0 +1,667 @@
+../royal_game_ur_optimize_30_at_time/out0/gen2/child00/brain_final.tsv
+../royal_game_ur_optimize_30_at_time/out0/gen0/parent0/brain.tsv
+roll 0 roll 2
+move 0 from 0 to -8
+turn 0 game -2147483646 0 118
+roll 1 roll 2
+move 1 from 0 to -8
+turn 1 game 32770 0 102
+roll 0 roll 3
+move 0 from 0 to -8
+turn 2 game -2147450874 0 101
+roll 1 roll 2
+move 1 from 2 to -8
+turn 3 game -2147352570 0 101
+roll 1 roll 2
+move 1 from 0 to -8
+turn 4 game 163846 0 85
+roll 0 roll 3
+move 0 from 2 to -8
+turn 5 game -2147319788 0 85
+roll 1 roll 2
+move 1 from 4 to -8
+turn 6 game 557076 0 85
+roll 0 roll 3
+move 0 from 5 to -8
+turn 7 game 557188 0 85
+roll 0 roll 1
+move 0 from 3 to -8
+turn 8 game 557192 0 85
+roll 0 roll 3
+move 0 from 0 to -8
+turn 9 game -2146926452 0 84
+roll 1 roll 1
+move 1 from 2 to -8
+turn 10 game 589964 0 84
+roll 0 roll 4
+move 0 from 3 to -8
+turn 11 game -2146893624 0 84
+roll 1 roll 1
+move 1 from 6 to -8
+turn 12 game 1114248 0 85
+roll 0 roll 3
+move 0 from 4 to -8
+turn 13 game -2147417920 0 101
+roll 1 roll 1
+move 1 from 3 to -8
+turn 14 game -2147352384 0 101
+roll 1 roll 2
+move 1 from 0 to -8
+turn 15 game 164032 0 85
+roll 0 roll 0
+turn 16 game -2147319616 0 85
+roll 1 roll 1
+move 1 from 0 to -8
+turn 17 game 180416 0 69
+roll 0 roll 2
+move 0 from 7 to -8
+turn 18 game -2147303040 0 69
+roll 1 roll 0
+turn 19 game 180608 0 69
+roll 0 roll 2
+move 0 from 9 to -8
+turn 20 game -2147302272 0 69
+roll 1 roll 2
+move 1 from 1 to -8
+turn 21 game 230528 0 69
+roll 0 roll 0
+turn 22 game -2147253120 0 69
+roll 1 roll 2
+move 1 from 3 to -8
+turn 23 game 427136 0 69
+roll 0 roll 3
+move 0 from 11 to -8
+turn 24 game 434304 0 69
+roll 0 roll 1
+move 0 from 14 to -8
+turn 25 game -2147057536 1 69
+roll 1 roll 2
+move 1 from 5 to -8
+turn 26 game 1212544 1 69
+roll 0 roll 2
+move 0 from 0 to -8
+turn 27 game -2146271102 1 68
+roll 1 roll 3
+move 1 from 0 to -8
+turn 28 game 1278082 1 52
+roll 0 roll 3
+move 0 from 0 to -8
+turn 29 game -2146205562 1 51
+roll 1 roll 0
+turn 30 game 1278086 1 51
+roll 0 roll 2
+move 0 from 2 to -8
+turn 31 game 1278092 1 51
+roll 0 roll 4
+move 0 from 3 to -8
+turn 32 game -2147254072 1 67
+roll 1 roll 1
+move 1 from 0 to -8
+turn 33 game 245960 1 51
+roll 0 roll 2
+move 0 from 7 to -8
+turn 34 game -2147237496 1 51
+roll 1 roll 2
+move 1 from 3 to -8
+turn 35 game 442760 1 51
+roll 0 roll 1
+move 0 from 4 to -8
+turn 36 game -2147303024 1 67
+roll 1 roll 1
+move 1 from 4 to -8
+turn 37 game 311680 1 68
+roll 0 roll 2
+move 0 from 0 to -8
+turn 38 game -2147171966 1 67
+roll 1 roll 3
+move 1 from 1 to -8
+turn 39 game -2147057278 1 67
+roll 1 roll 3
+move 1 from 4 to -8
+turn 40 game 1343874 1 67
+roll 0 roll 4
+move 0 from 0 to -8
+turn 41 game 1343882 1 66
+roll 0 roll 3
+move 0 from 2 to -8
+turn 42 game -2146401896 1 82
+roll 1 roll 2
+move 1 from 7 to -8
+turn 43 game 4227224 1 83
+roll 0 roll 2
+move 0 from 5 to -8
+turn 44 game -2143256376 1 83
+roll 1 roll 3
+move 1 from 0 to -8
+turn 45 game 4292808 1 67
+roll 0 roll 2
+move 0 from 7 to -8
+turn 46 game -2147384952 1 83
+roll 1 roll 3
+move 1 from 3 to -8
+turn 47 game 557448 1 83
+roll 0 roll 2
+move 0 from 4 to -8
+turn 48 game -2147450464 1 99
+roll 1 roll 2
+move 1 from 2 to -8
+turn 49 game -2147352160 1 99
+roll 1 roll 4
+turn 50 game 131488 1 99
+roll 0 roll 1
+move 0 from 0 to -8
+turn 51 game -2147352159 1 98
+roll 1 roll 2
+move 1 from 4 to -8
+turn 52 game 524673 1 99
+roll 0 roll 1
+move 0 from 9 to -8
+turn 53 game -2146958719 1 99
+roll 1 roll 0
+turn 54 game 524929 1 99
+roll 0 roll 2
+move 0 from 10 to -8
+turn 55 game -2146957183 1 99
+roll 1 roll 2
+move 1 from 0 to -8
+turn 56 game 559233 1 83
+roll 0 roll 2
+move 0 from 12 to -8
+turn 57 game 565377 1 83
+roll 0 roll 2
+move 0 from 0 to -8
+turn 58 game -2146918269 1 82
+roll 1 roll 3
+move 1 from 0 to -8
+turn 59 game 630915 1 66
+roll 0 roll 0
+turn 60 game -2146852733 1 66
+roll 1 roll 1
+move 1 from 6 to -8
+turn 61 game 1155203 1 66
+roll 0 roll 2
+move 0 from 2 to -8
+turn 62 game 1155209 1 66
+roll 0 roll 3
+move 0 from 4 to -8
+turn 63 game -2147376959 1 82
+roll 1 roll 2
+move 1 from 2 to -8
+turn 64 game -2147278655 1 82
+roll 1 roll 4
+move 1 from 3 to -8
+turn 65 game 1187969 1 83
+roll 0 roll 2
+move 0 from 0 to -8
+turn 66 game -2146295677 1 82
+roll 1 roll 2
+move 1 from 7 to -8
+turn 67 game 4333699 1 82
+roll 0 roll 1
+move 0 from 14 to -8
+turn 68 game -2143158141 2 82
+roll 1 roll 2
+move 1 from 0 to -8
+turn 69 game 4358275 2 66
+roll 0 roll 1
+move 0 from 2 to -8
+turn 70 game -2143125371 2 66
+roll 1 roll 4
+move 1 from 9 to -8
+turn 71 game 67272837 2 66
+roll 0 roll 1
+move 0 from 3 to -8
+turn 72 game 67272841 2 66
+roll 0 roll 2
+move 0 from 0 to -8
+turn 73 game -2080210805 2 65
+roll 1 roll 2
+move 1 from 13 to -8
+turn 74 game 163979 18 65
+roll 0 roll 1
+move 0 from 2 to -8
+turn 75 game -2147319667 18 65
+roll 1 roll 2
+move 1 from 4 to -8
+turn 76 game 557197 18 65
+roll 0 roll 2
+move 0 from 4 to -8
+turn 77 game -2147450715 18 81
+roll 1 roll 2
+move 1 from 2 to -8
+turn 78 game -2147352411 18 81
+roll 1 roll 4
+turn 79 game 131237 18 81
+roll 0 roll 1
+move 0 from 6 to -8
+turn 80 game -2147352379 18 81
+roll 1 roll 2
+move 1 from 0 to -8
+turn 81 game 164037 18 65
+roll 0 roll 2
+move 0 from 7 to -8
+turn 82 game -2147319419 18 65
+roll 1 roll 1
+move 1 from 0 to -8
+turn 83 game 180613 18 49
+roll 0 roll 1
+move 0 from 3 to -8
+turn 84 game 180617 18 49
+roll 0 roll 1
+move 0 from 9 to -8
+turn 85 game -2147302775 18 49
+roll 1 roll 2
+move 1 from 1 to -8
+turn 86 game 230025 18 49
+roll 0 roll 1
+move 0 from 10 to -8
+turn 87 game -2147253111 18 49
+roll 1 roll 4
+move 1 from 2 to -8
+turn 88 game 722057 18 49
+roll 0 roll 2
+move 0 from 4 to -8
+turn 89 game -2147285855 18 65
+roll 1 roll 4
+move 1 from 3 to -8
+turn 90 game 1180833 18 65
+roll 0 roll 0
+turn 91 game -2146302815 18 65
+roll 1 roll 3
+move 1 from 0 to -8
+turn 92 game 1246369 18 49
+roll 0 roll 2
+move 0 from 0 to -8
+turn 93 game -2146237277 18 48
+roll 1 roll 1
+move 1 from 0 to -8
+turn 94 game 1262755 18 32
+roll 0 roll 2
+move 0 from 2 to -8
+turn 95 game 1262761 18 32
+roll 0 roll 2
+move 0 from 1 to -8
+turn 96 game -2146220884 18 32
+roll 1 roll 2
+move 1 from 4 to -8
+turn 97 game 1655948 18 33
+roll 0 roll 1
+move 0 from 11 to -8
+turn 98 game -2145826676 18 33
+roll 1 roll 0
+turn 99 game 1656972 18 33
+roll 0 roll 3
+move 0 from 12 to -8
+turn 100 game -2145828724 19 33
+roll 1 roll 2
+move 1 from 0 to -8
+turn 101 game 1687692 19 17
+roll 0 roll 3
+move 0 from 3 to -8
+turn 102 game -2146320216 19 33
+roll 1 roll 1
+move 1 from 3 to -8
+turn 103 game -2146254680 19 33
+roll 1 roll 2
+move 1 from 4 to -8
+turn 104 game 1622152 19 34
+roll 0 roll 2
+move 0 from 4 to -8
+turn 105 game -2146385760 19 50
+roll 1 roll 2
+move 1 from 2 to -8
+turn 106 game -2146287456 19 50
+roll 1 roll 3
+move 1 from 0 to -8
+turn 107 game 1261728 19 34
+roll 0 roll 2
+move 0 from 0 to -8
+turn 108 game -2146221918 19 33
+roll 1 roll 2
+move 1 from 4 to -8
+turn 109 game 1654914 19 34
+roll 0 roll 2
+move 0 from 2 to -8
+turn 110 game 1654920 19 34
+roll 0 roll 2
+move 0 from 4 to -8
+turn 111 game -2146352992 19 50
+roll 1 roll 1
+move 1 from 3 to -8
+turn 112 game -2146287456 19 50
+roll 1 roll 3
+move 1 from 0 to -8
+turn 113 game 1261728 19 34
+roll 0 roll 1
+move 0 from 6 to -8
+turn 114 game -2147270464 19 50
+roll 1 roll 2
+move 1 from 0 to -8
+turn 115 game 245952 19 34
+roll 0 roll 3
+move 0 from 7 to -8
+turn 116 game -2147237248 19 34
+roll 1 roll 3
+move 1 from 4 to -8
+turn 117 game 1163904 19 34
+roll 0 roll 2
+move 0 from 10 to -8
+turn 118 game -2146318208 19 34
+roll 1 roll 1
+move 1 from 3 to -8
+turn 119 game -2146252672 19 34
+roll 1 roll 2
+move 1 from 1 to -8
+turn 120 game 1280128 19 34
+roll 0 roll 3
+move 0 from 12 to -8
+turn 121 game -2146205568 20 34
+roll 1 roll 3
+move 1 from 7 to -8
+turn 122 game 8618112 20 34
+roll 0 roll 3
+move 0 from 0 to -8
+turn 123 game -2138865532 20 33
+roll 1 roll 2
+move 1 from 10 to -8
+turn 124 game 33783940 20 33
+roll 0 roll 2
+move 0 from 0 to -8
+turn 125 game -2113699706 20 32
+roll 1 roll 3
+move 1 from 12 to -8
+turn 126 game 229510 36 32
+roll 0 roll 2
+move 0 from 2 to -8
+turn 127 game 229516 36 32
+roll 0 roll 1
+move 0 from 4 to -8
+turn 128 game -2147254124 36 32
+roll 1 roll 3
+move 1 from 2 to -8
+turn 129 game 458884 36 33
+roll 0 roll 1
+move 0 from 0 to -8
+turn 130 game -2147024763 36 32
+roll 1 roll 2
+move 1 from 5 to -8
+turn 131 game 1245317 36 32
+roll 0 roll 2
+move 0 from 3 to -8
+turn 132 game -2146238319 36 32
+roll 1 roll 2
+move 1 from 3 to -8
+turn 133 game 1441921 36 33
+roll 0 roll 1
+move 0 from 1 to -8
+turn 134 game -2146041726 36 33
+roll 1 roll 2
+move 1 from 0 to -8
+turn 135 game 1474690 36 17
+roll 0 roll 2
+move 0 from 2 to -8
+turn 136 game 1474696 36 17
+roll 0 roll 2
+move 0 from 0 to -8
+turn 137 game -2146008950 36 16
+roll 1 roll 1
+move 1 from 2 to -8
+turn 138 game 1507466 36 16
+roll 0 roll 3
+move 0 from 2 to -8
+turn 139 game -2146238312 36 32
+roll 1 roll 3
+move 1 from 7 to -8
+turn 140 game 8585368 36 32
+roll 0 roll 2
+move 0 from 8 to -8
+turn 141 game -2147286504 36 48
+roll 1 roll 2
+move 1 from 3 to -8
+turn 142 game 393736 36 49
+roll 0 roll 3
+move 0 from 0 to -8
+turn 143 game -2147089908 36 48
+roll 1 roll 3
+move 1 from 5 to -8
+turn 144 game -2145254900 36 48
+roll 1 roll 3
+move 1 from 0 to -8
+turn 145 game 2294284 36 32
+roll 0 roll 2
+move 0 from 10 to -8
+turn 146 game -2145187828 36 32
+roll 1 roll 2
+move 1 from 0 to -8
+turn 147 game 2328588 36 16
+roll 0 roll 2
+move 0 from 12 to -8
+turn 148 game 2334732 36 16
+roll 0 roll 3
+move 0 from 4 to -8
+turn 149 game -2145148860 36 16
+roll 1 roll 1
+move 1 from 0 to -8
+turn 150 game 2351172 36 0
+roll 0 roll 2
+move 0 from 7 to -8
+turn 151 game -2145132284 36 0
+roll 1 roll 3
+move 1 from 4 to -8
+turn 152 game 3268868 36 0
+roll 0 roll 1
+move 0 from 14 to -8
+turn 153 game -2144222972 37 0
+roll 1 roll 4
+move 1 from 1 to -8
+turn 154 game 3506436 37 0
+roll 0 roll 3
+move 0 from 9 to -8
+turn 155 game -2143975420 37 0
+roll 1 roll 2
+move 1 from 7 to -8
+turn 156 game 6653956 37 0
+roll 0 roll 1
+move 0 from 3 to -8
+turn 157 game 6653960 37 0
+roll 0 roll 3
+move 0 from 12 to -8
+turn 158 game -2140831736 38 0
+roll 1 roll 2
+move 1 from 2 to -8
+turn 159 game -2140733432 38 0
+roll 1 roll 2
+move 1 from 5 to -8
+turn 160 game 7536648 38 0
+roll 0 roll 2
+move 0 from 4 to -8
+turn 161 game -2139946976 38 0
+roll 1 roll 2
+move 1 from 4 to -8
+turn 162 game 7929856 38 1
+roll 0 roll 3
+move 0 from 0 to -8
+turn 163 game -2139553788 38 0
+roll 1 roll 1
+move 1 from 3 to -8
+turn 164 game -2139488252 38 0
+roll 1 roll 2
+move 1 from 9 to -8
+turn 165 game 20578308 38 0
+roll 0 roll 1
+move 0 from 3 to -8
+turn 166 game 20578312 38 0
+roll 0 roll 3
+move 0 from 4 to -8
+turn 167 game -2127953856 38 16
+roll 1 roll 1
+move 1 from 6 to -8
+turn 168 game 20054016 38 17
+roll 0 roll 2
+move 0 from 0 to -8
+turn 169 game -2127429630 38 16
+roll 1 roll 2
+move 1 from 11 to -8
+turn 170 game 70385666 38 16
+roll 0 roll 0
+turn 171 game -2077097982 38 16
+roll 1 roll 2
+move 1 from 13 to -8
+turn 172 game 3276802 54 16
+roll 0 roll 3
+move 0 from 2 to -8
+turn 173 game -2144206832 54 16
+roll 1 roll 0
+turn 174 game 3276816 54 16
+roll 0 roll 2
+move 0 from 5 to -8
+turn 175 game -2145255360 54 32
+roll 1 roll 0
+turn 176 game 2228288 54 32
+roll 0 roll 2
+move 0 from 7 to -8
+turn 177 game -2145255168 54 32
+roll 1 roll 1
+move 1 from 8 to -8
+turn 178 game 4325376 54 33
+roll 0 roll 3
+move 0 from 0 to -8
+turn 179 game -2143158268 54 32
+roll 1 roll 1
+move 1 from 0 to -8
+turn 180 game 4341764 54 16
+roll 0 roll 3
+move 0 from 3 to -8
+turn 181 game -2143141856 54 16
+roll 1 roll 2
+move 1 from 4 to -8
+turn 182 game 4734976 54 17
+roll 0 roll 2
+move 0 from 0 to -8
+turn 183 game -2142748670 54 16
+roll 1 roll 2
+move 1 from 6 to -8
+turn 184 game -2141175806 54 16
+roll 1 roll 2
+move 1 from 9 to -8
+turn 185 game 18890754 54 16
+roll 0 roll 2
+move 0 from 2 to -8
+turn 186 game 18890760 54 16
+roll 0 roll 3
+move 0 from 4 to -8
+turn 187 game -2128592832 54 16
+roll 1 roll 0
+turn 188 game 18890816 54 16
+roll 0 roll 2
+move 0 from 7 to -8
+turn 189 game -2128592640 54 16
+roll 1 roll 1
+move 1 from 8 to -8
+turn 190 game 20987904 54 17
+roll 0 roll 3
+move 0 from 0 to -8
+turn 191 game -2126495740 54 16
+roll 1 roll 3
+move 1 from 11 to -8
+turn 192 game -2009055228 54 16
+roll 1 roll 2
+move 1 from 9 to -8
+turn 193 game 151011332 54 16
+roll 0 roll 1
+move 0 from 3 to -8
+turn 194 game 151011336 54 16
+roll 0 roll 2
+move 0 from 4 to -8
+turn 195 game -1996472288 54 16
+roll 1 roll 0
+turn 196 game 151011360 54 16
+roll 0 roll 2
+move 0 from 6 to -8
+turn 197 game 151011456 54 16
+roll 0 roll 0
+turn 198 game -1996472192 54 16
+roll 1 roll 0
+turn 199 game 151011456 54 16
+roll 0 roll 1
+move 0 from 8 to -8
+turn 200 game -1996472064 54 16
+roll 1 roll 2
+move 1 from 11 to -8
+turn 201 game 201343232 54 16
+roll 0 roll 2
+move 0 from 9 to -8
+turn 202 game -1946139648 54 16
+roll 1 roll 2
+move 1 from 13 to -8
+turn 203 game 134235136 70 16
+roll 0 roll 0
+turn 204 game -2013248512 70 16
+roll 1 roll 3
+move 1 from 1 to -8
+turn 205 game -2013133824 70 16
+roll 1 roll 0
+turn 206 game 134349824 70 16
+roll 0 roll 2
+move 0 from 11 to -8
+turn 207 game -2013130752 70 16
+roll 1 roll 3
+move 1 from 0 to -8
+turn 208 game 134418432 70 0
+roll 0 roll 3
+turn 209 game -2013065216 70 0
+roll 1 roll 4
+move 1 from 3 to -8
+turn 210 game 135401472 70 0
+roll 0 roll 4
+turn 211 game -2012082176 70 0
+roll 1 roll 2
+move 1 from 7 to -8
+turn 212 game 138547200 70 0
+roll 0 roll 1
+move 0 from 13 to -8
+turn 213 game 138551296 70 0
+roll 0 roll 4
+turn 214 game -2008932352 70 0
+roll 1 roll 1
+move 1 from 14 to -8
+turn 215 game 4333568 86 0
+roll 0 roll 2
+turn 216 game -2143150080 86 0
+roll 1 roll 2
+move 1 from 9 to -8
+turn 217 game 16916480 86 0
+roll 0 roll 0
+turn 218 game -2130567168 86 0
+roll 1 roll 2
+move 1 from 11 to -8
+turn 219 game 67248128 86 0
+roll 0 roll 2
+turn 220 game -2080235520 86 0
+roll 1 roll 3
+move 1 from 4 to -8
+turn 221 game 68165632 86 0
+roll 0 roll 2
+turn 222 game -2079318016 86 0
+roll 1 roll 1
+move 1 from 7 to -8
+turn 223 game -2078269440 86 0
+roll 1 roll 3
+move 1 from 8 to -8
+turn 224 game 83894272 86 0
+roll 0 roll 4
+turn 225 game -2063589376 86 0
+roll 1 roll 3
+move 1 from 11 to -8
+turn 226 game -1946148864 86 0
+roll 1 roll 2
+move 1 from 13 to -8
+turn 227 game 134225920 102 0
+roll 0 roll 0
+turn 228 game -2013257728 102 0
+roll 1 roll 0
+turn 229 game 134225920 102 0
+roll 0 roll 1
+move 0 from 14 to -8
+turn 230 game -2013265920 103 0
+end 0 win

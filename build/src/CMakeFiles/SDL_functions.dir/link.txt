@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libSDL_functions.a CMakeFiles/SDL_functions.dir/SDL_functions.cpp.o
+/usr/bin/ranlib ../lib/libSDL_functions.a

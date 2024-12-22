@@ -1,0 +1,10 @@
+/home/nikolaj/study/cppprojects/sketches_just_for_fun/royal_game_ur_graphical/build/CMakeFiles/edit_cache.dir
+/home/nikolaj/study/cppprojects/sketches_just_for_fun/royal_game_ur_graphical/build/CMakeFiles/rebuild_cache.dir
+/home/nikolaj/study/cppprojects/sketches_just_for_fun/royal_game_ur_graphical/build/src/CMakeFiles/Game.dir
+/home/nikolaj/study/cppprojects/sketches_just_for_fun/royal_game_ur_graphical/build/src/CMakeFiles/Player.dir
+/home/nikolaj/study/cppprojects/sketches_just_for_fun/royal_game_ur_graphical/build/src/CMakeFiles/playMatch.dir
+/home/nikolaj/study/cppprojects/sketches_just_for_fun/royal_game_ur_graphical/build/src/CMakeFiles/2n_elimination_bracket.dir
+/home/nikolaj/study/cppprojects/sketches_just_for_fun/royal_game_ur_graphical/build/src/CMakeFiles/SDL_functions.dir
+/home/nikolaj/study/cppprojects/sketches_just_for_fun/royal_game_ur_graphical/build/src/CMakeFiles/RoyalGameUr.dir
+/home/nikolaj/study/cppprojects/sketches_just_for_fun/royal_game_ur_graphical/build/src/CMakeFiles/edit_cache.dir
+/home/nikolaj/study/cppprojects/sketches_just_for_fun/royal_game_ur_graphical/build/src/CMakeFiles/rebuild_cache.dir

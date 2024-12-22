@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/lib2n_elimination_bracket.a CMakeFiles/2n_elimination_bracket.dir/2n_elimination_bracket.cpp.o
+/usr/bin/ranlib ../lib/lib2n_elimination_bracket.a

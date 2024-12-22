@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/RoyalGameUr.dir/main.cpp.o -o ../bin/RoyalGameUr  -lncursesw -lSDL2 -lSDL2_image -lSDL2 -lSDL2_mixer -lSDL2 ../lib/libGame.a ../lib/libSDL_functions.a ../lib/libPlayer.a ../lib/libplayMatch.a ../lib/libGame.a -lncursesw -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2 -lSDL2_image -lSDL2_mixer

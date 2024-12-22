@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libplayMatch.a CMakeFiles/playMatch.dir/playMatch.cpp.o
+/usr/bin/ranlib ../lib/libplayMatch.a
